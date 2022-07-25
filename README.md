@@ -7,8 +7,11 @@ ________________________________________________________________________________
 🙋‍♂️About me
 _________________________________________________________________________________________
 - 👋 Hi, I’m @roht2103
+- 
 - 👀 I’m interested in programming
+- 
 - 🌱 I’m currently learning javascropt, HTML and CSS
+- 
 - 📫 How to reach me ...rohitthorat680@gmail.com
 
 🚀Languages and tools:
