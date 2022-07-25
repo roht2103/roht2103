@@ -1,5 +1,6 @@
 
-hi! ![wave](https://user-images.githubusercontent.com/109894186/180728278-f0eab298-0b55-45b2-a1f2-da0336c8767e.gif) I'm ROHIT
+hi! ![hi](https://user-images.githubusercontent.com/109894186/180728748-273564da-a4e0-494f-abe0-5c1d90981b8e.gif)
+! I'm ROHIT
 
 _________________________________________________________________________________________
 
