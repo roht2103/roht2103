@@ -1,3 +1,10 @@
+
+hi! ![wave](https://user-images.githubusercontent.com/109894186/180728278-f0eab298-0b55-45b2-a1f2-da0336c8767e.gif) I'm ROHIT
+
+_________________________________________________________________________________________
+
+🙋‍♂️About me
+_________________________________________________________________________________________
 - 👋 Hi, I’m @roht2103
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning javascropt, HTML and CSS
