@@ -7,7 +7,7 @@ ________________________________________________________________________________
 - 
 - 👀 I’m interested in programming
 - 
-- 🌱 I’m currently learning javascropt, HTML and CSS
+- 🌱 I’m currently learning Vanilla Js , HTML , CSS , React
 - 
 - 📫 How to reach me ...rohitthorat680@gmail.com
 
