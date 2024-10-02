@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 - 👀 I’m interested in programming
 
-- 🌱 I’m currently learning Vanilla Js , HTML , CSS , React
+- 🌱 I’m currently learning MERN
 
 - 📫 How to reach me ...rohitthorat680@gmail.com
 
