@@ -1,25 +1,22 @@
 # Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm ROHIT
-🙋‍♂️About me
-_________________________________________________________________________________________
-- 👋 Hi, I’m @roht2103
 
-- 👀 I’m interested in programming
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rxhit_27) [![Portfolio](https://img.shields.io/badge/Portfolio-%23E4405F.svg?)](https://rohitt.netlify.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-thorat-502566246) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Rohitthorat) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RohitTh53744122) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitthorat680@gmail.com) 
 
-- 🌱 I’m currently learning MERN
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=roht2103&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=roht2103&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=roht2103&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 📫 How to reach me ...rohitthorat680@gmail.com
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+[![](https://visitcount.itsvg.in/api?id=roht2103&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-🚀Languages and tools:
-_________________________________________________________________________________________
-      
-  ![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f72656163742d6e61746976652e706e67](https://user-images.githubusercontent.com/109894186/180730256-d5dfc75d-5a54-4f7a-bec8-beb127e988ac.png)![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176617363726970742e706e67](https://user-images.githubusercontent.com/109894186/180730279-9334d49c-a7ed-46c1-87f3-bbb8bd673b65.png)![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f68746d6c2d352e706e67](https://user-images.githubusercontent.com/109894186/180730490-2314e8dc-0eb1-434c-a11a-9b1047481a94.png)![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f637373332e706e67](https://user-images.githubusercontent.com/109894186/180789438-615d16fd-3b0a-4bd6-9b3a-06934b6c6918.png)![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6769742e706e67](https://user-images.githubusercontent.com/109894186/182075224-477159d7-7722-4285-8be9-bfd599651881.png)
-![icons8-c-programming](https://github.com/roht2103/roht2103/assets/109894186/2d559647-5236-44f9-9636-7a62d72b18db)
-![icons8-c++](https://github.com/roht2103/roht2103/assets/109894186/ee98a8a8-a708-4f39-a9a2-44d7ba996dc6)
-![icons8-java-logo](https://github.com/roht2103/roht2103/assets/109894186/e6f95d94-d07e-4af5-885e-0214c01a8557)
-![icons8-github](https://github.com/roht2103/roht2103/assets/109894186/65698319-67f6-4432-b77c-3f08d4d3cf5a)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
 roht2103/roht2103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
